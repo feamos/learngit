@@ -1,4 +1,4 @@
-Git is a distrisdfsdfsdfsdfsdbuted version control system.
+Git is a distrisduyjyujyufsdfjyuj:sdfsdfsdbuted version control system.
 Git is free software distributed under the GPL.
 Git has a mutable inde called stage.
 haha
